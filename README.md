@@ -5,11 +5,11 @@ This repository contains my Digital Literacy Portfolio, including an awareness i
 This Digital Literacy Project was created as part of the Student Digital Ambassador assignment. The purpose of this project is to develop digital skills, understand online safety, create a professional digital presence, and learn proper digital communication and collaboration tools. This repository contains all tasks, reports, screenshots, and learning materials related to digital literacy modules.
 ## Author details
 
-Name:Hashwanthickka
+**Name**: Hashwanthickka
 
-Reg no:25BHI10005
+**Reg no**: 25BHI10005
 
-Course:BTech computer science and engineering(Healthinformatics)
+**Course**: BTech computer science and engineering(Healthinformatics)
 
 ## Project Tasks
 This project consists of five main tasks:
