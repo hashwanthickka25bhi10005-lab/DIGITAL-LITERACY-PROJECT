@@ -1,32 +1,8 @@
 # Cybercrime Type: UPI Online Payment Fraud
-## 1. What is the crime?
-UPI online payment fraud is a cybercrime where scammers trick people into sending money through fake payment requests, QR codes, or phishing links.
-The fraudsters pretend to be bank officials, customer care, or buyers/sellers.
-## 2. How it happens (Step by Step)
-The scammer contacts the victim through phone call, SMS, WhatsApp, or email.
-The scammer pretends to be a bank employee or online buyer.
-They send a fake payment link or QR code.
-They tell the victim to scan the QR code to receive money.
-The victim enters the UPI PIN.
-Money gets transferred from the victim’s account to the scammer’s account.
-The scammer blocks the victim after receiving the money.
-## 3. Who is usually targeted?
-College students
-Elderly people
-Online sellers and buyers
-People who are new to digital payments
-People who do not know about cyber frauds
-## 4. Consequences
-Loss of money
-Personal data theft
-Stress and mental pressure
-Bank account misuse
-Online identity theft
-# Example Incident Case (India)
-Real Incident Example
-In many cities in India, scammers call people pretending to be bank officials.
-They say that the victim’s bank account or ATM card will be blocked.
-They ask for OTP or send a fake UPI link.
-Once the victim enters OTP or UPI PIN, money is withdrawn from their account.
-Many people have lost thousands of rupees through this fraud.
-Cybercrime departments receive many complaints related to UPI fraud every day.
+UPI online payment fraud is one of the most common cybercrimes in India. In this type of fraud, scammers trick people into sending money or sharing their UPI PIN.
+
+The fraud usually happens step by step. First, the scammer contacts the victim through a phone call, message, or fake advertisement. They may pretend to be a bank employee, customer care executive, or online seller. Then they send a fake payment link or QR code and ask the victim to scan it to receive money. However, scanning the QR code actually sends money instead of receiving it. The victim enters the UPI PIN and the money is transferred to the scammer’s account.
+
+Students, elderly people, and people who are not familiar with digital payments are usually targeted. The consequences include financial loss, stress, and loss of personal information.
+
+This case shows the importance of digital literacy and awareness about online payment safety.
