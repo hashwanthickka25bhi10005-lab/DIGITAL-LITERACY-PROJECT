@@ -27,8 +27,18 @@ Created an infographic explaining digital literacy, safe internet practices, and
 ### Task 2 – Student Digital Portfolio
 Created professional student profiles and portfolio on digital platforms such as LinkedIn and GitHub.
 
+github:https://github.com/hashwanthickka25bhi10005-lab
+
+linkedin:https://www.linkedin.com/in/hashwanthickka-sasikumar-547aa43ba/
+
+kaggle:https://www.kaggle.com/hashwanthickka
+
 ### Task 3 – Coding & Collaboration Platforms
 Explored coding practice platforms like HackerRank/CodeChef and created a Google Form for digital literacy awareness.
+
+hackerrank:https://www.hackerrank.com/profile/hashwanthickka_1
+
+google form:https://docs.google.com/forms/d/e/1FAIpQLSf8_NugefsJKCrKOoLK2wgwdS7oSBwRWFvwNqvi07ZnUQ8_jQ/viewform?usp=publish-editor
 
 ### Task 4 – Professional Email & Etiquette Guide
 Drafted professional emails and created a social media do’s and don’ts checklist.
@@ -54,15 +64,22 @@ Internet Research
 ## Repository Structure
 
 DIGITAL-LITERACY-PROJECT
+
 │
 ├── README.md
+
 ├── report/
+
 ├── task-1-presentation/
+
 ├── task-2-portfolio/
+
 ├── task-3-platforms/
+
 ├── task-4-email-etiquette/
+
 └── task-5-cybercrime/
 
-##Conclusion
+## Conclusion
 This project helped in understanding the importance of digital literacy, online safety, professional communication, and digital collaboration tools. It also improved knowledge about cyber security and responsible use of digital platforms. The project provided practical experience in using digital tools and managing files using GitHub.
 
