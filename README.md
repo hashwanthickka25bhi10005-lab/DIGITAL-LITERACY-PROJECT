@@ -37,6 +37,9 @@ google form:https://docs.google.com/forms/d/e/1FAIpQLSf8_NugefsJKCrKOoLK2wgwdS7o
 ### Task 4 – Professional Email & Etiquette Guide
 Drafted professional emails and created a social media do’s and don’ts checklist.
 
+[View email](task-4-email-etiquette/email.md)
+[View social media checklist](task-4-email-etiquette/social-media-checklist)
+
 ### Task 5 – Cybercrime Case Study & Prevention Checklist
 Created a cybercrime case study and a checklist for staying safe online.
 
